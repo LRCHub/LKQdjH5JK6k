@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ばけて",
+  "base_artist": "x0o0x_",
+  "createdAt": "2026-02-24T16:30:00.548902Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ばけて",
+      "artist": "x0o0x_",
+      "has_synced": false,
+      "path": "select/pl_01_ばけて_x0o0x.txt"
+    }
+  ]
+}
